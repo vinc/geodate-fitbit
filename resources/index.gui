@@ -1,0 +1,4 @@
+<svg class="background">
+  <text id="separator">:</text>
+  <text id="label" />
+</svg>

@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "db35ceb0-b07b-4ff8-8979-e8177aa55b0b",
+    "appType": "clockface",
+    "appDisplayName": "Geodate",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Geodate"
+      }
+    }
+  }
+}
